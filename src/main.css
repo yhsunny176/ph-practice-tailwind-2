@@ -9,6 +9,7 @@
   --color-dark3: #777;
   --color-dark5: #D2D2D2;
   --color-yellow: #FFC850;
-  --color-primary-white: #F4F4F4;
+  --color-primary-white: rgba(244, 244, 244, 1);
+  --color-white-a2: rgba(244, 244, 244, 0);
 
 }
